@@ -1,6 +1,7 @@
 # ninjaid
 
 A new Flutter application.
+This was made using the Net Ninja's Flutter Tutorial
 
 ## Getting Started
 
